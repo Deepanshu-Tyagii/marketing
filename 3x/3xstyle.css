@@ -203,10 +203,10 @@ html {
     
 }
 
-.swiper-container{
+.swiper-container .vid video{
    
-    margin-top: 110px;
-    height: 750px;
+   width: 100% !important;
+	margin-top: 110px;
 }
 
 .heading {
